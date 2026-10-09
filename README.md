@@ -1,6 +1,9 @@
-<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Howdy!, I am <a href="https://github.com/Defcon27">Hemanth</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-</h1>
+### Hi! 👋
+
+<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Abdelraha Elsayed">
+
+
+
 
 ### 📬 Find me at
 [![Github Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/abdelrahman897)](https://github.com/abdelrahman897)
@@ -38,41 +41,45 @@ I'm a Flutter Developer and Computer Science Student at Cairo University. I buil
 
 
 
+
 **Languages and Tools:** 
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-  </a>
+  
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart" /></code>
+  <code><img width="10%" src="[https://skillicons.dev/icons?i=flutter,dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)" alt="Dart" /></code>
+  <code><img width="10%" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></code>
+  <code><img width="10%" src="https://img.shields.io/badge/-Material%20Design-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="Material Design" /></code>
+  <code><img width="10%" src="https://img.shields.io/badge/-BLoC-1389FD?style=flat-square&logoColor=white" alt="BLoC" /></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="10%" src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" alt="Sentry error monitoring" /></code>
+  <code><img width="10%" src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" /><code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://img.shields.io/badge/Hive-FFB300?style=flat&logoColor=white" alt="Hive local storage" /></code>
+  <code><img width="10%" src="https://img.shields.io/badge/-Hive-FFB300?style=flat-square&logoColor=black" alt="Hive" /><code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-
-
-
-
-
-  
   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
+
+
+
+
+
+
+
 
 
 
