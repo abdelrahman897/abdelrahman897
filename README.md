@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Abdelraha Elsayed">
+<img src="https://drive.google.com/file/d/1GWkU1zZjownCSLc3zYe9TS0yyyBaTbtr/view?usp=drive_link" alt="Banner about Abdelraha Elsayed">
 
 
 
@@ -44,23 +44,27 @@ I'm a Flutter Developer and Computer Science Student at Cairo University. I buil
 
 ### 🚀 Languages and Tools:
 
-  <code><img height="30" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></code>
-  <code><img height="30" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></code>
-  <code><img height="30" src="https://img.shields.io/badge/-Material%20Design-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="Material Design" /></code>
-  <code><img height="30" src="https://img.shields.io/badge/-BLoC-1389FD?style=flat-square&logoColor=white" alt="BLoC" /></code>
-  <code><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" alt="Sentry error monitoring" /></code>
-  <code><img height="30" src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" /><code>
-  <code><img height="30" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img height="30" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img height="30" src="https://img.shields.io/badge/-Hive-FFB300?style=flat-square&logoColor=black" alt="Hive" /><code>
-  <code><img height="30" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img height="30" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-
+<p>
+  <code><img width="10% src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></code>
+  <code><img width="10% src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></code>
+  <code><img width="10% src="https://img.shields.io/badge/-Material%20Design-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="Material Design" /></code>
+  <code><img width="10% src="https://img.shields.io/badge/-BLoC-1389FD?style=flat-square&logoColor=white" alt="BLoC" /></code>
+  <br />
+  <code><img width="10% src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="10% src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" alt="Sentry error monitoring" /></code>
+  <code><img width="10% src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" /></code>
+  <code><img width="10% src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <br />
+  <code><img width="10% src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10% src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10% src="https://img.shields.io/badge/-Hive-FFB300?style=flat-square&logoColor=black" alt="Hive" /></code>
+  <code><img width="10% src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10% src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10% src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10% src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10% src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
 
 
 
