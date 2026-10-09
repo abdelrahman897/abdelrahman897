@@ -1,177 +1,90 @@
-<h1 align="center">Hi, I'm Abdelrahman Elsayed 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  Flutter Developer | Computer Science Student at Cairo University
-</h3>
+# Abdelrahman Elsayed Abdelhalim
 
-<p align="center">
-  Building cross-platform mobile apps with Flutter, clean architecture,
-  and testable code.
-</p>
+**Flutter Developer** · Clean Architecture · BLoC/Cubit · Firebase
 
-<p align="center">
-  <a href="https://github.com/abdelrahman897">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdelrahman-elsayed-76577433a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  <a href="mailto:abdelrahmansayed60066006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email Abdelrahman" />
-  </a>
-</p>
+Computer Science student at Cairo University (expected 2027) · Cairo, Egypt
+**Open to Flutter internship and junior developer roles**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman_Elsayed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elsayed-76577433a)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdelrahmansayed60066006@gmail.com)
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>10</strong><br />feature modules</td>
+    <td align="center"><strong>350</strong><br />passing tests</td>
+    <td align="center"><strong>68.16%</strong><br />code coverage</td>
+    <td align="center"><strong>3</strong><br />payment methods</td>
+  </tr>
+</table>
+<p align="center"><sub>Figures from my E-Commerce app, described below.</sub></p>
 
 ---
 
 ## About Me
 
-I'm a Flutter Developer and Computer Science student at Cairo
-University, expected to graduate in 2027. I have one year of
-experience building cross-platform mobile applications, with a focus
-on maintainable architecture, reliable state management, and automated
-testing.
+I build cross-platform mobile apps with Flutter and Dart. I structure them with feature-first Clean Architecture, manage state with BLoC/Cubit, and cover them with automated tests.
 
-My main project is a feature-rich E-Commerce application built with
-Flutter, featuring REST API integration, Firebase authentication,
-Stripe payments, local caching, and a comprehensive automated test suite.
-
-- 📱 **Mobile development:** Flutter, Dart, and responsive UI.
-- 🏗️ **Architecture:** Feature-first Clean Architecture and Repository pattern.
-- 🔄 **State management:** BLoC, Cubit, and HydratedBloc.
-- 🧪 **Testing:** Unit, widget, and BLoC tests.
-- 🌍 **Localization:** English and Arabic.
-- 🎯 **Career goal:** Seeking Flutter internship and junior developer
-  opportunities where I can contribute to real projects and grow as an engineer.
-
-## Featured Projects
-
-### 1. E-Commerce App
-
-**Flutter · Dart · Clean Architecture · BLoC/Cubit · Firebase · Stripe**
-
-A mobile-first shopping application integrated with the Route Misr
-E-Commerce REST API, designed with feature-first Clean Architecture.
-
-**Highlights**
-- Implemented 10 feature modules across 15 screens.
-- Integrated REST APIs using Dio, including interceptors and a unified
-  error-handling model.
-- Added Firebase authentication with email/password and Google Sign-In.
-- Integrated Stripe payment flows supporting card, wallet, and cash
-  on delivery, with 14 successful end-to-end test payments.
-- Implemented wishlist caching with Hive and persisted theme and
-  language preferences using HydratedBloc.
-- Added English and Arabic localization, with 92 translated strings,
-  and Material Design 3 light/dark themes.
-- Wrote **350 passing tests**: 216 unit, 82 widget, and 52 BLoC tests,
-  achieving **68.16% code coverage**.
-
-**[View Repository →](https://github.com/abdelrahman897/e_commerce_app)**
-
----
-
-### 2. Movies App
-
-**Flutter · Dart · Clean Architecture · BLoC · Firebase · Hive**
-
-A team graduation project developed by four students. I implemented
-six features end-to-end, covering six of the application's eleven
-screens.
-
-**Highlights**
-- Implemented login, registration, profile, movie details, search,
-  and theme/language switching.
-- Integrated Firebase Authentication and Firestore user profiles.
-- Contributed to a shared core layer of reusable modules.
-- Designed a Hive-backed cache for the watchlist and viewing history,
-  allowing these profile tabs to open without connectivity.
-- Collaborated with teammates through code reviews and QA.
-
-*Team project; individual contributions are described above.*
-
----
-
-### 3. News App
-
-**Flutter · Dart · MVVM · Provider · REST API**
-
-A news application using NewsAPI.org, with category browsing, search,
-pagination, and local preference persistence.
-
-**Highlights**
-- Implemented category-based news browsing and search with an
-  800 ms debounce to reduce unnecessary requests.
-- Added infinite-scroll pagination, fetching 10 articles per request.
-- Organized application state using MVVM and Provider with three
-  ViewModels.
-- Persisted theme and language settings using SharedPreferences.
-- Used cached_network_image to reduce repeated article image downloads.
-
-**[View Repository →](https://github.com/abdelrahman897/news)**
+- Studying for a Bachelor of Computer Science at Cairo University (Oct 2022 – expected Oct 2027)
+- Completed the 100-hour Flutter Development Diploma at Route (Oct 2025 – Mar 2026), ranked A in the cohort, and shipped three portfolio apps
+- Languages: Arabic (native), English (B2)
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,postman"
-    alt="Flutter, Dart, Firebase, Git, GitHub, and Postman"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github&theme=dark">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github&theme=light" alt="Dart, Flutter, Firebase, Git and GitHub icons" />
+  </picture>
 </p>
 
-### Mobile Development
-- Flutter and Dart
-- Material Design 3
-- Responsive UI and localization (English/Arabic)
-
-### Architecture and State Management
-- Feature-first Clean Architecture
-- Repository pattern and dependency injection with get_it
-- BLoC, Cubit, HydratedBloc, and Provider
-- SOLID principles and reusable components
-
-### Backend, APIs, and Storage
-- REST API integration with Dio and interceptors
-- Firebase Authentication, Cloud Firestore, and Firebase Messaging
-- Stripe payment integration
-- Hive, SharedPreferences, and Flutter Secure Storage
-
-### Testing and Reliability
-- flutter_test, bloc_test, and Mockito
-- Unit, widget, and BLoC testing
-- Sentry crash reporting
-
-## Education
-
-**Bachelor of Computer Science — Cairo University**
-
-Expected graduation: October 2027
-
-## Professional Training
-
-**Flutter Development Diploma — Route**
-
-October 2025 – March 2026
-
-- Completed a 100-hour Flutter development diploma over five months.
-- Studied state management, Clean Architecture, REST APIs, Firebase,
-  payments, and testing.
-- Built three portfolio applications: E-Commerce, Movies, and News.
-- Achieved an **A cohort grade**.
-
-## Let's Connect
-
-I'm open to Flutter internship and junior developer opportunities.
-
-- **GitHub:** [abdelrahman897](https://github.com/abdelrahman897)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abdelrahman-elsayed-76577433a/)
-- **Email:** [abdelrahmansayed60066006@gmail.com](mailto:abdelrahmansayed60066006@gmail.com)
-- **Location:** Cairo, Egypt
+| Area | Tools & practices |
+| :-- | :-- |
+| **Language & UI** | Dart, Flutter, Material Design 3, responsive UI, English/Arabic localization |
+| **Architecture** | Feature-first Clean Architecture, Repository pattern, get_it (dependency injection), MVVM |
+| **State management** | BLoC/Cubit (primary), HydratedBloc, Provider |
+| **Networking & backend** | REST APIs (Dio, interceptors), Firebase (Auth, Firestore, Messaging), Stripe |
+| **Local storage** | Hive, Shared Preferences, Flutter Secure Storage |
+| **Testing & quality** | flutter_test, bloc_test, Mockito, Sentry crash reporting |
+| **Workflow** | Git/GitHub, pull requests, code reviews |
 
 ---
 
-<p align="center">
-  <sub>Focused on writing maintainable code, testing real application
-  behavior, and building reliable Flutter experiences.</sub>
-</p>
+## Featured Projects
+
+### E-Commerce App
+Client for the Route Misr e-commerce REST API. [View repository](https://github.com/abdelrahman897/e_commerce_app)
+
+- **Architecture:** 10 feature modules and 15 screens (auth, products, cart, wishlist, checkout, and more), each split into data, domain, and presentation layers.
+- **Integrations:** Dio with interceptors and a unified error model, Firebase Auth (email/password and Google Sign-In), and Stripe with 3 payment methods (card, wallet, cash on delivery). Completed 14 successful end-to-end test payments.
+- **Testing:** 350 passing tests (216 unit, 82 widget, 52 BLoC) using bloc_test and Mockito, with 68.16% code coverage.
+- **User experience:** English/Arabic localization (92 strings), Material Design 3 light/dark themes, first-run onboarding, Hive wishlist caching, and HydratedBloc to persist theme and language.
+
+### Movies App
+Team graduation project (team of 4 developers).
+
+- Built 6 features end-to-end on Clean Architecture: login, registration, profile, movie details, search, and theme/language switching (6 of the app's 11 screens).
+- Integrated Firebase Authentication with Firestore user profiles, and contributed to the shared core layer of 13 modules reused by all 5 features.
+- Designed a Hive-backed local cache for the watchlist and viewing history (last 20 titles, deduplicated) so both Profile tabs open without connectivity.
+
+<!-- TODO: add the Movies App repository link when available -->
+
+### News App
+Built on the NewsAPI.org REST API. [View repository](https://github.com/abdelrahman897/news)
+
+- Category browsing, real-time search debounced at 800 ms, and infinite-scroll pagination (10 articles per request).
+- MVVM with Provider (3 ViewModels), theme and language saved in SharedPreferences, and image caching with `cached_network_image`.
+
+---
+
+## Connect
+
+I'm looking for a Flutter internship or junior developer role. The best ways to reach me:
+
+- LinkedIn: [abdelrahman-elsayed](https://www.linkedin.com/in/abdelrahman-elsayed-76577433a)
+- Email: [abdelrahmansayed60066006@gmail.com](mailto:abdelrahmansayed60066006@gmail.com)
