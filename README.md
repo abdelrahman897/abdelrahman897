@@ -1,52 +1,90 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
-<h3 align="center">Data Engineer | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
+<div align="center">
 
-## I little bit about me
+# Abdelrahman Elsayed Abdelhalim
 
-🎓 &nbsp;I'm currently working towards an AWS Data Engineering Cert. \
-🌱 &nbsp;I'm on track with learning more about DataOps, MLOps, DevOps and Software Architecture.\
-✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
-💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
-✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
-📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
+**Flutter Developer** · Clean Architecture · BLoC/Cubit · Firebase
 
----
+Computer Science student at Cairo University (expected 2027) · Cairo, Egypt
+**Open to Flutter internship and junior developer roles**
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman_Elsayed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elsayed-76577433a)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdelrahmansayed60066006@gmail.com)
 
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+</div>
 
----
-
-## Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Harness Engineering in Practice: Building Maestro v2, an Autonomous GitHub Agent Orchestrator using Claude Code](https://blog.mphomphego.co.za/blog/2026/04/18/harness-engineering-building-maestro-v2-an-autonomous-github-agent-orchestrator.html)
-- [Did I Just Accidentally Build a Memory Management System for Claude Code?](https://blog.mphomphego.co.za/blog/2026/03/21/Did-I-Just-Accidentally-Build-a-Memory-Management-System-for-Claude-Code.html)
-- [Running Google ADK Agents on AWS Bedrock via LiteLLM in Production: A Practical Guide to the Gotchas](https://blog.mphomphego.co.za/blog/2026/03/05/Running-Google-ADK-Agents-on-AWS-Bedrock-via-LiteLLM.html)
-- [How I Built 20+ Custom AI Coding Skills to Automate My Entire Engineering Workflow](https://blog.mphomphego.co.za/blog/2026/02/28/How-I-Built-20+-Custom-AI-Coding-Skills-to-Automate-My-Entire-Engineering-Workflow.html)
-- [Why Mpho Mphego Might Be The World’s Worst AI Software And Data Engineer](https://blog.mphomphego.co.za/blog/2026/02/04/Why-Mpho-Mphego-Might-Be-the-World-s-Worst-AI-Software-and-Data-Engineer.html)
-- [How I Simplified LLM Telemetry Using Dual-Destination Observability Without Performance Degradation](https://blog.mphomphego.co.za/blog/2025/12/08/How-I-Simplified-LLM-Telemetry-Using-Dual-Destination-Observability-Without-Performance-Degradation.html)
-- [How To Enforce SQL Code Quality Using SQLFluff, Pre-Commit And GitHub Actions](https://blog.mphomphego.co.za/blog/2024/10/11/How-to-Enforce-SQL-Code-Quality-using-SQLFluff-Pre-Commit-and-GitHub-Actions.html)
-- [How An EC2 Instance Became My Go-To Remote Development Solution Using Terraform](https://blog.mphomphego.co.za/blog/2024/08/18/How-An-EC2-Instance-Became-My-Go-To-Remote-Development-Solution.html)
-- [How To Automate Jira And Confluence Using Python](https://blog.mphomphego.co.za/blog/2024/05/22/How-to-automate-Jira-and-Confluence-using-Python.html)
-- [How To Connect To AWS Athena Using DBeaver Community Edition Via AWS SSO](https://blog.mphomphego.co.za/blog/2023/12/27/How-to-connect-to-AWS-Athena-using-DBeaver-Community-Edition-via-AWS-SSO.html)
-<!-- BLOG-POST-LIST:END -->
+<table align="center">
+  <tr>
+    <td align="center"><strong>10</strong><br />feature modules</td>
+    <td align="center"><strong>350</strong><br />passing tests</td>
+    <td align="center"><strong>68.16%</strong><br />code coverage</td>
+    <td align="center"><strong>3</strong><br />payment methods</td>
+  </tr>
+</table>
+<p align="center"><sub>Figures from my E-Commerce app, described below.</sub></p>
 
 ---
 
-## Links
+## About Me
+
+I build cross-platform mobile apps with Flutter and Dart. I structure them with feature-first Clean Architecture, manage state with BLoC/Cubit, and cover them with automated tests.
+
+- Studying for a Bachelor of Computer Science at Cairo University (Oct 2022 – expected Oct 2027)
+- Completed the 100-hour Flutter Development Diploma at Route (Oct 2025 – Mar 2026), ranked A in the cohort, and shipped three portfolio apps
+- Languages: Arabic (native), English (B2)
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <a href="https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
-  <a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-  <a href="mailto:mpho@mphomphego.co.za"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://hub.docker.com/u/mmphego"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
-  <a href="https://www.youtube.com/c/MphoMphego1?sub_confirmation=1"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://twitter.com/mphomphego"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href= "https://tiktok.com/@mph0.m"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github&theme=dark">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github&theme=light" alt="Dart, Flutter, Firebase, Git and GitHub icons" />
+  </picture>
 </p>
+
+| Area | Tools & practices |
+| :-- | :-- |
+| **Language & UI** | Dart, Flutter, Material Design 3, responsive UI, English/Arabic localization |
+| **Architecture** | Feature-first Clean Architecture, Repository pattern, get_it (dependency injection), MVVM |
+| **State management** | BLoC/Cubit (primary), HydratedBloc, Provider |
+| **Networking & backend** | REST APIs (Dio, interceptors), Firebase (Auth, Firestore, Messaging), Stripe |
+| **Local storage** | Hive, Shared Preferences, Flutter Secure Storage |
+| **Testing & quality** | flutter_test, bloc_test, Mockito, Sentry crash reporting |
+| **Workflow** | Git/GitHub, pull requests, code reviews |
+
+---
+
+## Featured Projects
+
+### E-Commerce App
+Client for the Route Misr e-commerce REST API. [View repository](https://github.com/abdelrahman897/e_commerce_app)
+
+- **Architecture:** 10 feature modules and 15 screens (auth, products, cart, wishlist, checkout, and more), each split into data, domain, and presentation layers.
+- **Integrations:** Dio with interceptors and a unified error model, Firebase Auth (email/password and Google Sign-In), and Stripe with 3 payment methods (card, wallet, cash on delivery). Completed 14 successful end-to-end test payments.
+- **Testing:** 350 passing tests (216 unit, 82 widget, 52 BLoC) using bloc_test and Mockito, with 68.16% code coverage.
+- **User experience:** English/Arabic localization (92 strings), Material Design 3 light/dark themes, first-run onboarding, Hive wishlist caching, and HydratedBloc to persist theme and language.
+
+### Movies App
+Team graduation project (team of 4 developers).
+
+- Built 6 features end-to-end on Clean Architecture: login, registration, profile, movie details, search, and theme/language switching (6 of the app's 11 screens).
+- Integrated Firebase Authentication with Firestore user profiles, and contributed to the shared core layer of 13 modules reused by all 5 features.
+- Designed a Hive-backed local cache for the watchlist and viewing history (last 20 titles, deduplicated) so both Profile tabs open without connectivity.
+
+<!-- TODO: add the Movies App repository link when available -->
+
+### News App
+Built on the NewsAPI.org REST API. [View repository](https://github.com/abdelrahman897/news)
+
+- Category browsing, real-time search debounced at 800 ms, and infinite-scroll pagination (10 articles per request).
+- MVVM with Provider (3 ViewModels), theme and language saved in SharedPreferences, and image caching with `cached_network_image`.
+
+---
+
+## Connect
+
+I'm looking for a Flutter internship or junior developer role. The best ways to reach me:
+
+- LinkedIn: [abdelrahman-elsayed](https://www.linkedin.com/in/abdelrahman-elsayed-76577433a)
+- Email: [abdelrahmansayed60066006@gmail.com](mailto:abdelrahmansayed60066006@gmail.com)
