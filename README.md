@@ -1,6 +1,5 @@
-### Hi! 👋
 
-<img src="https://drive.google.com/file/d/1GWkU1zZjownCSLc3zYe9TS0yyyBaTbtr/view?usp=drive_link" alt="Banner about Abdelraha Elsayed">
+<img src="https://raw.githubusercontent.com/abdelrahman897/abdelrahman897/main/banner.png" alt="Banner for Abdelrahman Elsayed, Flutter Developer" width="100%">
 
 
 
@@ -12,6 +11,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/32951097/%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d9%85)](https://stackoverflow.com/users/32951097/%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d9%85)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelrahmansayed60066006@gmail.com)](mailto:abdelrahmansayed60066006@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://www.geeksforgeeks.org/profile/abdelrahmansasqg5)](https://www.geeksforgeeks.org/profile/abdelrahmansasqg5)
+
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -45,25 +45,25 @@ I'm a Flutter Developer and Computer Science Student at Cairo University. I buil
 ### 🚀 Languages and Tools:
 
 <p>
-  <code><img width="10% src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></code>
-  <code><img width="10% src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></code>
-  <code><img width="10% src="https://img.shields.io/badge/-Material%20Design-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="Material Design" /></code>
-  <code><img width="10% src="https://img.shields.io/badge/-BLoC-1389FD?style=flat-square&logoColor=white" alt="BLoC" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-Material%20Design-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="Material Design" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-BLoC-1389FD?style=flat-square&logoColor=white" alt="BLoC" /></code>
   <br />
-  <code><img width="10% src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10% src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" alt="Sentry error monitoring" /></code>
-  <code><img width="10% src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" /></code>
-  <code><img width="10% src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img height="28" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" /></code>
   <br />
-  <code><img width="10% src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10% src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10% src="https://img.shields.io/badge/-Hive-FFB300?style=flat-square&logoColor=black" alt="Hive" /></code>
-  <code><img width="10% src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img height="28" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-JSON-5E5E5E?style=flat-square&logo=json&logoColor=white" alt="JSON" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-Hive-FFB300?style=flat-square&logoColor=black" alt="Hive" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" /></code>
   <br />
-  <code><img width="10% src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10% src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10% src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10% src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img height="28" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML" /></code>
+  <code><img height="28" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /></code>
 </p>
 
 
