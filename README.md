@@ -1,96 +1,52 @@
-<!-- Your title -->
-## Hi, I'm Murillo Comino, a Developer 🚀 from Brazil.
+![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
+<h3 align="center">Data Engineer | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+## I little bit about me
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
-
-&nbsp;
-
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
-
-**Languages and Tools:** 
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-  </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
-</p>
-
-## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-<p align="center">
-  <a href="https://www.patreon.com/onimur" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
-  </a>
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
+🎓 &nbsp;I'm currently working towards an AWS Data Engineering Cert. \
+🌱 &nbsp;I'm on track with learning more about DataOps, MLOps, DevOps and Software Architecture.\
+✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
+💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
+✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
+📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
 
 ---
 
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
-  </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a>
-</p>
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+
+---
+
+## Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Harness Engineering in Practice: Building Maestro v2, an Autonomous GitHub Agent Orchestrator using Claude Code](https://blog.mphomphego.co.za/blog/2026/04/18/harness-engineering-building-maestro-v2-an-autonomous-github-agent-orchestrator.html)
+- [Did I Just Accidentally Build a Memory Management System for Claude Code?](https://blog.mphomphego.co.za/blog/2026/03/21/Did-I-Just-Accidentally-Build-a-Memory-Management-System-for-Claude-Code.html)
+- [Running Google ADK Agents on AWS Bedrock via LiteLLM in Production: A Practical Guide to the Gotchas](https://blog.mphomphego.co.za/blog/2026/03/05/Running-Google-ADK-Agents-on-AWS-Bedrock-via-LiteLLM.html)
+- [How I Built 20+ Custom AI Coding Skills to Automate My Entire Engineering Workflow](https://blog.mphomphego.co.za/blog/2026/02/28/How-I-Built-20+-Custom-AI-Coding-Skills-to-Automate-My-Entire-Engineering-Workflow.html)
+- [Why Mpho Mphego Might Be The World’s Worst AI Software And Data Engineer](https://blog.mphomphego.co.za/blog/2026/02/04/Why-Mpho-Mphego-Might-Be-the-World-s-Worst-AI-Software-and-Data-Engineer.html)
+- [How I Simplified LLM Telemetry Using Dual-Destination Observability Without Performance Degradation](https://blog.mphomphego.co.za/blog/2025/12/08/How-I-Simplified-LLM-Telemetry-Using-Dual-Destination-Observability-Without-Performance-Degradation.html)
+- [How To Enforce SQL Code Quality Using SQLFluff, Pre-Commit And GitHub Actions](https://blog.mphomphego.co.za/blog/2024/10/11/How-to-Enforce-SQL-Code-Quality-using-SQLFluff-Pre-Commit-and-GitHub-Actions.html)
+- [How An EC2 Instance Became My Go-To Remote Development Solution Using Terraform](https://blog.mphomphego.co.za/blog/2024/08/18/How-An-EC2-Instance-Became-My-Go-To-Remote-Development-Solution.html)
+- [How To Automate Jira And Confluence Using Python](https://blog.mphomphego.co.za/blog/2024/05/22/How-to-automate-Jira-and-Confluence-using-Python.html)
+- [How To Connect To AWS Athena Using DBeaver Community Edition Via AWS SSO](https://blog.mphomphego.co.za/blog/2023/12/27/How-to-connect-to-AWS-Athena-using-DBeaver-Community-Edition-via-AWS-SSO.html)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Links
+
+<p align="center">
+  <a href="https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
+  <a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+  <a href="mailto:mpho@mphomphego.co.za"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://hub.docker.com/u/mmphego"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
+  <a href="https://www.youtube.com/c/MphoMphego1?sub_confirmation=1"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://twitter.com/mphomphego"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href= "https://tiktok.com/@mph0.m"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
+</p>
